@@ -4,20 +4,20 @@
 Welcome to my GitHub profile! 
 - ☁️ Senior Azure Cloud Engineer
 - 🏅 Microsoft Certified: Azure Solutions Architect + Azure Administrator
-- 🎯 Here to learn more about GitHub + other DevOps practices 
+- 🎯 Develop & learn more about DevOps practices 
 
 ### My repos
-- 🔗 Azure Bicep Fundamentals 
-
+- 🔗 Azure Bicep Fundamentals
+- 
 ### Current learning goals
 - 🎓 Azure Bicep
 - 🎓 Terraform
 - 🎓 Azure DevOps
-
+- 
 ### Other
-- 📩 Feel free to reach out
-
-Thankns for visiting!
+- 📩 Feel free to reach out to me
+- 
+Thanks for visiting!
 
 <!--
 **danzure/danzure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
