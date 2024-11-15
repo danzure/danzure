@@ -7,16 +7,15 @@ Welcome to my GitHub profile!
 - 🎯 Develop & learn more about DevOps practices 
 
 ### My repos
-- 🔗 Azure Bicep Fundamentals
-- 
+- 🔗 Azure Bicep
+- 🔗 Azure Terraform
+  
 ### Current learning goals
 - 🎓 Azure Bicep
 - 🎓 Terraform
 - 🎓 Azure DevOps
-- 
 ### Other
 - 📩 Feel free to reach out to me
-- 
 Thanks for visiting!
 
 <!--
