@@ -12,7 +12,7 @@ Here you'll find all my personal projects & self-study materials
 - 🎓 Microsoft Certified: Azure Security Engineer Accociate (AZ-500)
 
 ### 📦Here are some of my repositories: 
-- 🦾 [azure-bicep](https://github.com/danzure/azure-bicep) - Azure Bicep templates
+- 🦾 [bicep-azure](https://github.com/danzure/bicep-azure) - Azure Bicep templates
 - ⚙️ [terraform-azure](https://github.com/danzure/terraform-azure) - Terraform Azure
 - ⚙️ [terraform-aws](https://github.com/danzure/terraform-aws) - Terraform AWS
 
