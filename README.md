@@ -1,19 +1,15 @@
-### Hello there! 👋
+### Hello, welcome to my GitHub profile 👋
+Here you'll find all my personal projects & self learning materials
 
 ### About me:
-Welcome to my GitHub profile! 
-- ☁️ Senior Azure Cloud Engineer
-- 🏅 Microsoft Certified: Azure Solutions Architect + Azure Administrator
-- 🎯 Develop & learn more about DevOps practices 
+- ☁️ I'm an Senior Azure Cloud Engineer
+- 🏅 Certified Microsoft Azure Solutions Expert
+- 🎯 Progressing my understanding of DevOps & IaC best practices
 
-### My repos
-- 🔗 Azure Bicep
-- 🔗 Azure Terraform
-  
 ### Current learning goals
-- 🎓 Azure Bicep
-- 🎓 Terraform
-- 🎓 Azure DevOps
+- 🎓 HashiCorp Terraform
+- 🎓 Azure Bicep Templates
+
 ### Other
 - 📩 Feel free to reach out to me
 Thanks for visiting!
