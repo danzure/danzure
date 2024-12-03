@@ -1,20 +1,24 @@
 ### Hello, welcome to my GitHub profile 👋
-Here you'll find all my personal projects & self learning materials
+Here you'll find all my personal projects & self-study materials
 
 ### 💡About me:
 - ☁️ I'm an Senior Azure Cloud Engineer
+- 🎓 Microsoft Certified Trainer (MTC)
 - 🏅 Certified Microsoft Azure Solutions Expert
-- 🎯 Progressing my understanding of DevOps & IaC best practices
+- 🎯 Here to develop & learn more about DevOps + IaC best practices
 
-### 🎯Current learning goals
+### 🎯Current learning goals:
 - 🎓 HashiCorp Terraform Associate (003)
 - 🎓 Microsoft Certified: Azure Developer Accociate (AZ-204)
 - 🎓 Microsoft Certified: Azure Security Engineer Accociate (AZ-500)
 
-### 💬Let's connect
-- 📨 Please feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/danielpowley92/)
-  
-  
+### 📦Here are some of my repositories: 
+-  [azure-terraform](https://github.com/danzure/azure-terraform) - Terraform azurerm
+-  [azure-bicep](https://github.com/danzure/azure-bicep) - Bicep templates
+
+
+### 💬Let's connect:
+Please feel free to reach out & connect with me via [LinkedIn](https://www.linkedin.com/in/danielpowley92/)
 Thanks for visiting!
 
 <!--
