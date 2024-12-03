@@ -3,7 +3,7 @@ Here you'll find all my personal projects & self-study materials
 
 ### 💡About me:
 - ☁️ I'm an Senior Azure Cloud Engineer
-- 🎓 Microsoft Certified Trainer (MTC)
+- 🎓 Microsoft Certified Trainer (MCT)
 - 🏅 Certified Microsoft Azure Solutions Expert
 - 🎯 Here to develop & learn more about DevOps + IaC best practices
 
