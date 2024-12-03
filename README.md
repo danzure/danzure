@@ -19,6 +19,7 @@ Here you'll find all my personal projects & self-study materials
 
 ### 💬Let's connect:
 Please feel free to reach out & connect with me via [LinkedIn](https://www.linkedin.com/in/danielpowley92/)
+
 Thanks for visiting!
 
 <!--
