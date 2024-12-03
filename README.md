@@ -13,7 +13,7 @@ Here you'll find all my personal projects & self-study materials
 
 ### 📦Here are some of my repositories: 
 - 🦾 [azure-bicep](https://github.com/danzure/azure-bicep) - Azure Bicep templates
-- ⚙️ [azure-terraform](https://github.com/danzure/azure-terraform) - Terraform azurerm
+- ⚙️ [azure-terraform](https://github.com/danzure/terraform-azure) - Terraform azurerm
 
 
 ### 💬Let's connect:
