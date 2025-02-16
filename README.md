@@ -2,9 +2,8 @@
 Here you'll find all my personal projects & self-study materials
 
 ### 💡About me:
-- ☁️ I'm an Senior Azure Cloud Engineer
-- 🏅 Certified Microsoft Azure Solutions Expert
-- 🎯 Here to develop & learn more about DevOps + IaC best practices
+- 🏅 Certified Microsoft Azure Expert
+- ☁️ Senior Azure Cloud Engineer
 
 ### 🎯Current learning goals:
 - 🎓 HashiCorp Terraform Associate (003)
@@ -12,7 +11,6 @@ Here you'll find all my personal projects & self-study materials
 - 🎓 Microsoft Certified: Azure Security Engineer Accociate (AZ-500)
 
 ### 📦Here are some of my repositories: 
-- 🦾 [bicep-azure](https://github.com/danzure/bicep-azure) - Azure Bicep templates
 - ⚙️ [terraform-azure](https://github.com/danzure/terraform-azure) - Terraform Azure
 
 
@@ -28,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...☁️
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
