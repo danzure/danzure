@@ -5,7 +5,7 @@ Hello! I'm Daniel & welcome to my personal GitHub. I'm an <b>Senior Consultant</
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/4586F9FC740509FA?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" alt="Azure Solutions Architect Expert" width="100" height="100"></a><a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/4586F9FC740509FA?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Azure Administrator Associate" width="100" height="100"></a><a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/4586F9FC740509FA?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Azure Fundamentals" width="100" height="100"></a>
 <br>
 #### Current Projects: 
-Currently working on creating a repository of quickstart various services & solutions using <b>Terraform</b> (IaC) platform for use within Microsoft Azure. The repository can be found here: <a href="https://github.com/danzure/terraform-azure">terraform-azure</a> if you would like to use, contribute or provide feedback. 
+Currently working on creating a repository of some quickstart services & solutions using <b>Terraform</b> (IaC) for use within Microsoft Azure. The repository can be found here: <a href="https://github.com/danzure/terraform-azure">terraform-azure</a> if you would like to use, contribute or provide feedback. 
 
 #### Working towards:
 - 🎓 HashiCorp Terraform Associate (003) 
