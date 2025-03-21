@@ -2,9 +2,9 @@
 Hello! I'm Daniel & welcome to my personal GitHub. I'm an <b>Azure Cloud Engineer</b> & certified <b>Azure Solutions Architect</b> and <b>Microsoft Certified Trainer</b> (MCT) with a passion for cloud & devops. Here you will find all the source materials used for my personal projects & self development. 
 <br>
 #### Azure Qualifications:
-<a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/BC1B6F429BA1F134?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" alt="Azure Solutions Architect Expert" width="100" height="100"></a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/4586F9FC740509FA?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Azure Administrator Associate" width="100" height="100"></a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/C97D2E529F5AB715?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Azure Fundamentals" width="100" height="100"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/BC1B6F429BA1F134?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" alt="Azure Solutions Architect Expert" width="90" height="90"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/4586F9FC740509FA?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Azure Administrator Associate" width="90" height="90"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/C97D2E529F5AB715?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Azure Fundamentals" width="90" height="90"></a>
 <br>
 #### Current Projects: 
 Currently working on creating a repository of some quickstart services & solutions using <b>Terraform</b> (IaC) for use within Microsoft Azure. The repository can be found here: <a href="https://github.com/danzure/terraform-azure">terraform-azure</a> if you would like to use, contribute or provide feedback. 
@@ -18,8 +18,8 @@ Currently working on creating a repository of some quickstart services & solutio
 Please feel free to reach out & connect with me via [LinkedIn](https://www.linkedin.com/in/danielpowley92/)
 
 #### Langaues & Tools 
-<a href="https://azure.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Microsoft Azure" width="75" height="75"></a> 
-<a href="https://developer.hashicorp.com/terraform"><img src="https://static-00.iconduck.com/assets.00/terraform-icon-452x512-ildgg5fd.png" alt="Hashicorp Terraform" width="75" height="75"></a>
+<a href="https://azure.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Microsoft Azure" width="50" height="50"></a> 
+<a href="https://developer.hashicorp.com/terraform"><img src="https://static-00.iconduck.com/assets.00/terraform-icon-452x512-ildgg5fd.png" alt="Hashicorp Terraform" width="50" height="50"></a>
 
 <!--
 **danzure/danzure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
