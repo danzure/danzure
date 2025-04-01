@@ -7,7 +7,9 @@ Hello! I'm Daniel & welcome to my personal GitHub. I'm an <b>Azure Cloud Enginee
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/C97D2E529F5AB715?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Azure Fundamentals" width="90" height="90"></a>
 <br>
 #### Current Projects: 
-Currently working on creating a repository of some quickstart services & solutions using <b>Terraform</b> (IaC) for use within Microsoft Azure. The repository can be found here: <a href="https://github.com/danzure/terraform-azure">terraform-azure</a> if you would like to use, contribute or provide feedback. 
+Currently working on two repositories that utilise <b>Terraform</b>. The first of which is the azurerm-templates that can be found here: <a href="https://github.com/danzure/azurerm-templates">azurerm-templates</a>, utilising the azurerm provider the purpose of this repo is to create some pre-made templates of various solutions and services within Azure. The second repo is the azuread-templates that you can find here: <a href="https://github.com/danzure/azuread-templates">azuread-templates</a> that utilises the azuread provider to create some base level IAM policies & configurations for within Microsoft Entra
+
+if you would like to use, contribute or provide feedback. 
 
 #### Working towards:
 - 🎓 HashiCorp Terraform Associate (003) 
