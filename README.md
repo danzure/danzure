@@ -1,5 +1,5 @@
 #### About me:
-Hello! I'm Daniel & welcome to my personal GitHub. I'm an <b>Azure Cloud Engineer</b> & certified <b>Azure Solutions Architect</b> and <b>Microsoft Certified Trainer</b> (MCT) with a passion for cloud & devops. Here you will find all the source materials used for my personal projects & self development. 
+Hello! I'm Daniel & welcome to my personal GitHub. I'm an certified <b>Azure Solutions Architect</b> and <b>Microsoft Certified Trainer</b> (MCT) with a passion for cloud. Here you will find all the source materials used for my personal projects & self development. 
 <br>
 #### Azure Qualifications:
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/BC1B6F429BA1F134?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" alt="Azure Solutions Architect Expert" width="90" height="90"></a>
@@ -9,7 +9,7 @@ Hello! I'm Daniel & welcome to my personal GitHub. I'm an <b>Azure Cloud Enginee
 #### Current Projects: 
 Currently working on two repositories that utilise <b>Terraform</b>. The first of which is the azurerm-templates that can be found here: <a href="https://github.com/danzure/azurerm-templates">azurerm-templates</a>, utilising the azurerm provider the purpose of this repo is to create some pre-made templates of various solutions and services within Azure. The second repo is the azuread-templates that you can find here: <a href="https://github.com/danzure/azuread-templates">azuread-templates</a> that utilises the azuread provider to create some base level IAM policies & configurations for within Microsoft Entra
 
-if you would like to use, contribute or provide feedback. 
+<b>Please note</b>: These are personal projects that I work on during my free time so I have no estimated/ planned date of completion. README's will be fully updated for completed solutions/ configurations. 
 
 #### Working towards:
 - 🎓 HashiCorp Terraform Associate (003) 
