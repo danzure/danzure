@@ -17,7 +17,7 @@ The second is the azuread-templates that you can find here: <a href="https://git
 
 #### Working towards:
 - 🎓 HashiCorp Terraform Associate (003) 
-- 🎓 Microsoft Certified: Azure Developer Accociate (AZ-204)
+- 🎓 Microsoft Certified: Designing & Implementing Microsoft DevOps Solutions (AZ-400)
 - 🎓 Microsoft Certified: Azure Security Engineer Accociate (AZ-500)
 
 #### Let's connect:
