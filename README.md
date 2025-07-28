@@ -1,5 +1,5 @@
 #### About me:
-Hello! I'm Daniel & welcome to my personal GitHub. I'm an certified <b>Azure Solutions Architect</b> and <b>Microsoft Certified Trainer</b> (MCT) with a passion for cloud. Here you will find all the source materials used for my personal projects & self development. 
+Hello! I'm Daniel & welcome to my personal GitHub. I'm an certified <b>Azure Solutions Architect</b> with a passion for cloud. Here you will find all the source materials used for my personal projects & self development. 
 <br>
 #### Azure Qualifications:
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/BC1B6F429BA1F134?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" alt="Azure Solutions Architect Expert" width="90" height="90"></a>
