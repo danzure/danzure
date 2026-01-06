@@ -1,5 +1,5 @@
 #### 🙋‍♂️ About me:
-Hello! I'm Dan, welcome to my personal GitHub. I've been in the IT Industry for nearly a decade, half of that has been spent working in and around Azure and the wider Microsft Cloud stack. I specialise in Microsoft Azure, and I currently hold my Microsoft Azure Solution Architect Certificattion. Here you will find repo's for all of my personal projects and various learning materials. 
+Hello! I'm Dan, welcome to my personal GitHub. I've been in the IT Industry for nearly a decade, half of that has been spent working in and around Azure and the wider Microsft Cloud stack. I specialise in Microsoft Azure currently and hold my Microsoft Azure Solution Architect Certificattion. Here you will find repo's for all of my personal projects and various learning materials. 
 <br>
 
 #### ⚒️ Personal Projects: 
