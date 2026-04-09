@@ -22,7 +22,7 @@ Currently working on two repositories that utilise <b>Terraform</b>. The primary
 #### 💬 Let's connect: 
 Please feel free to reach out & connect with me via [LinkedIn](https://www.linkedin.com/in/danielpowley92/)
 <br>
-You can follow and read my blog, the [blog.atozazure](https://blogatozazure.com/) where I share guidance, personal experiences and how-to's for everything Azure. 
+You can follow and read my blog, the [blog.atozazure](https://blog.atozazure.com/) where I share guidance, personal experiences and how-to's for everything Azure. 
 
 #### ⚙️ Langaues & Tools 
 If you are interested in learning more about the languages and tools I use, please see below
