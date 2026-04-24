@@ -1,20 +1,15 @@
 ## 👋 About Me
 
-I'm **Daniel**, a cloud infrastructure specialist with a decade of IT industry experience. I'm passionate about designing scalable, secure solutions on the **Microsoft Azure** platform and have deep expertise in Infrastructure-as-Code, cloud architecture, and identity management.
-
-Currently, I hold the **Microsoft Certified: Azure Solutions Architect Expert** certification and focus on building production-grade infrastructure solutions using modern cloud best practices. When I'm not architecting cloud solutions, you'll find me contributing to open-source projects and sharing my knowledge on cloud technologies.
-
+My names **Daniel**, welcome to my personal github profile. I've worked in the IT industry for the last decade, with a focus on the Microsoft Azure Cloud platform. Here you'll find repos for all my personal projects and learning material for my own personal development within my own career. 
 ---
 
 ## 🔧 Current Projects
-
-I'm currently working on:
 
 - **[Azure Resource Naming Tool](https://github.com/danzure/react-azresourcename-app)** — A React-based web application for generating Azure resource names following the Microsoft Cloud Adoption Framework naming conventions
 - **[azurerm-templates](https://github.com/danzure/azurerm-templates)** — Production-ready Terraform templates for deploying Azure resources with best practices and scalable architectures
 - **[azuread-templates](https://github.com/danzure/azuread-templates)** — Enterprise-scale Microsoft Entra identity management templates for IAM policies, role assignments, and security configurations
 
-> **Note:** These are passion projects developed in my free time. Each repository includes comprehensive documentation and real-world examples.
+> **Note:** These are passion/side projects developed in my free time. Each repository includes documentation and guides so feel free to take a look. 
 
 ---
 
