@@ -17,11 +17,7 @@ My names **Daniel**, welcome to my personal github profile. I've worked in the I
 
 **Current Certifications:**
 
-<a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/BC1B6F429BA1F134?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" alt="Azure Solutions Architect Expert" width="90" height="90"></a>
-
-<a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/4586F9FC740509FA?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Azure Administrator Associate" width="90" height="90"></a>
-
-<a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/C97D2E529F5AB715?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Azure Fundamentals" width="90" height="90"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/BC1B6F429BA1F134?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" alt="Azure Solutions Architect Expert" width="90" height="90"></a> <a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/4586F9FC740509FA?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Azure Administrator Associate" width="90" height="90"></a> <a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/C97D2E529F5AB715?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Azure Fundamentals" width="90" height="90"></a>
 
 **Learning Targets:**
 - 🚀 <a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/">Microsoft Certified: DevOps Engineer Expert (AZ-400)</a>
