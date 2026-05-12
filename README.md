@@ -23,9 +23,9 @@ I'm currently working on:
 **Current Certifications:**
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/BC1B6F429BA1F134?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" alt="Azure Solutions Architect Expert" width="90" height="90"></a>
-&nbsp;
+
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/4586F9FC740509FA?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Azure Administrator Associate" width="90" height="90"></a>
-&nbsp;
+
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/C97D2E529F5AB715?sharingId=109AD1BA867B7412"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Azure Fundamentals" width="90" height="90"></a>
 
 **Learning Targets:**
@@ -36,8 +36,8 @@ I'm currently working on:
 
 ## 💻 Skills & Technologies
 
-<a href="https://azure.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Microsoft Azure" width="50" height="50"></a> 
-&nbsp;
+<a href="https://azure.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Microsoft Azure" width="50" height="50"></a>
+
 <a href="https://developer.hashicorp.com/terraform"><img src="https://assets.axopen.com/assets/uploads/terraform_logo_fa08e53501.png" alt="Hashicorp Terraform" width="50" height="50"></a>
 
 ---
@@ -49,18 +49,3 @@ I'd love to connect and collaborate! Reach out through:
 - **💼 [LinkedIn](https://www.linkedin.com/in/danielpowley92/)** — Connect with me professionally
 - **📚 [A to Z Azure Blog](https://blog.atozazure.com/)** — Read my latest articles on Azure architecture, best practices, and cloud solutions
 - **🎓 [Microsoft Learn Profile](https://learn.microsoft.com/en-gb/users/danielpowley92/)** — View my certifications, learning journey, and completed modules
-
-<!--
-**danzure/danzure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...☁️
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
