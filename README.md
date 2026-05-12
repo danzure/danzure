@@ -9,7 +9,7 @@ My names **Daniel**, welcome to my personal github profile. I've worked in the I
 - **[azurerm-templates](https://github.com/danzure/azurerm-templates)** — Production-ready Terraform templates for deploying Azure resources with best practices and scalable architectures
 - **[azuread-templates](https://github.com/danzure/azuread-templates)** — Enterprise-scale Microsoft Entra identity management templates for IAM policies, role assignments, and security configurations
 
-> **Note:** These are passion/side projects developed in my free time. Each repository includes documentation and guides so feel free to take a look. 
+**Note:** These are passion/side projects developed in my free time. Each repository includes documentation and guides so feel free to take a look. 
 
 ---
 
@@ -27,9 +27,7 @@ My names **Daniel**, welcome to my personal github profile. I've worked in the I
 
 ## 💻 Skills & Technologies
 
-<a href="https://azure.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Microsoft Azure" width="50" height="50"></a>
-
-<a href="https://developer.hashicorp.com/terraform"><img src="https://assets.axopen.com/assets/uploads/terraform_logo_fa08e53501.png" alt="Hashicorp Terraform" width="50" height="50"></a>
+<a href="https://azure.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Microsoft Azure" width="50" height="50"></a> <a href="https://developer.hashicorp.com/terraform"><img src="https://assets.axopen.com/assets/uploads/terraform_logo_fa08e53501.png" alt="Hashicorp Terraform" width="50" height="50"></a>
 
 ---
 
