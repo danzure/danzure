@@ -1,8 +1,4 @@
 <!-- Header Section -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Daniel+👋;Welcome+to+my+GitHub+Profile;Cloud+Architect+%7C+Azure+Enthusiast" alt="Typing SVG" />
-</div>
-
 <p align="center">
   <strong>Microsoft 365/ Azure Solutions Architect</strong><br>
   I've worked in the IT industry for the last decade, with a focus on the Microsoft Azure Cloud platform. Here you'll find repos for my personal projects and learning material for my own personal development within my career.
@@ -13,14 +9,15 @@
 ## 💻 Skills & Technologies
 
 <div align="center">
-
-**Cloud & Infrastructure**<br>
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-<br>
-**Languages & Frameworks**<br>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=arm-templates&logoColor=white" alt="ARM Templates" />
+<img src="https://img.shields.io/badge/Microsoft_365-5E55A7?style=for-the-badge&logo=microsoft-365&logoColor=white" alt="Microsoft 365" />
+<img src="https://img.shields.io/badge/Microsoft_Entra-0078D4?style=for-the-badge&logo=microsoft-entra&logoColor=white" alt="Microsoft Entra" />
+<img src="https://img.shields.io/badge/Microsoft_Purview-0078D4?style=for-the-badge&logo=microsoft-purview&logoColor=white" alt="Microsoft Purview" />
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft-sentinel&logoColor=white" alt="Microsoft Sentinel" />
 
 </div>
 
@@ -30,9 +27,9 @@
 
 | Project | Description |
 |---------|-------------|
-| 🌐 **[Azure Governance Toolkit](https://github.com/danzure/azure-governance-toolkit)** | Source code for my public Azure Governance Toolkit application. |
-| 🎓 **[Microsoft Certified Tracker](https://github.com/danzure/microsoft-certified-tracker)** | A tracking application to manage and monitor Microsoft certifications progress. |
-| 🏗️ **[Terraform AzureRM Templates](https://github.com/danzure/terraform-azurerm-templates)** | Repository containing my self-created terraform quick start templates of azure resources & solutions utilising the azurerm provider. |
+| **[Azure Governance Toolkit](https://github.com/danzure/azure-governance-toolkit)** | Source code for my public Azure Governance Toolkit application. |
+| **[Microsoft Certified Tracker](https://github.com/danzure/microsoft-certified-tracker)** | A tracking application to manage and monitor Microsoft certifications progress. |
+| **[Terraform Templates (Azure)](https://github.com/danzure/terraform-azurerm-templates)** | Repository containing my self-created terraform quick start templates of azure resources & solutions utilising the azurerm provider. |
 
 > **Note:** These are passion/side projects developed in my free time. Each repository includes documentation and guides so feel free to take a look.
 
