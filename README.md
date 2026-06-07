@@ -6,23 +6,6 @@
 
 ---
 
-## 💻 Skills & Technologies
-
-<div align="center">
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-<img src="https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=arm-templates&logoColor=white" alt="ARM Templates" />
-<img src="https://img.shields.io/badge/Microsoft_365-5E55A7?style=for-the-badge&logo=microsoft-365&logoColor=white" alt="Microsoft 365" />
-<img src="https://img.shields.io/badge/Microsoft_Entra-0078D4?style=for-the-badge&logo=microsoft-entra&logoColor=white" alt="Microsoft Entra" />
-<img src="https://img.shields.io/badge/Microsoft_Purview-0078D4?style=for-the-badge&logo=microsoft-purview&logoColor=white" alt="Microsoft Purview" />
-<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft-sentinel&logoColor=white" alt="Microsoft Sentinel" />
-
-</div>
-
----
-
 ## 🔧 Current Projects
 
 | Project | Description |
@@ -49,6 +32,25 @@
     <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Azure Fundamentals" width="100">
   </a>
 </div>
+
+---
+
+## 💻 Skills & Technologies
+
+<div align="center">
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+<img src="https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=arm-templates&logoColor=white" alt="ARM Templates" />
+<img src="https://img.shields.io/badge/Microsoft_365-5E55A7?style=for-the-badge&logo=microsoft-365&logoColor=white" alt="Microsoft 365" />
+<img src="https://img.shields.io/badge/Microsoft_Entra-0078D4?style=for-the-badge&logo=microsoft-entra&logoColor=white" alt="Microsoft Entra" />
+<img src="https://img.shields.io/badge/Microsoft_Purview-0078D4?style=for-the-badge&logo=microsoft-purview&logoColor=white" alt="Microsoft Purview" />
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft-sentinel&logoColor=white" alt="Microsoft Sentinel" />
+
+</div>
+
+---
 
 ### Learning Targets
 - 🚀 <a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/">Microsoft Certified: DevOps Engineer Expert (AZ-400)</a>
