@@ -1,6 +1,6 @@
 <!-- Header Section -->
-<p align="center">
-  <strong>Microsoft 365/ Azure Solutions Architect</strong><br>
+<p align="left">
+  <strong>Azure Cloud Engineer | Microsoft Azure Solutions Architect</strong><br>
   I've worked in the IT industry for the last decade, with a focus on the Microsoft Azure Cloud platform. Here you'll find repos for my personal projects and learning material for my own personal development within my career.
 </p>
 
@@ -25,9 +25,11 @@
   <a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/BC1B6F429BA1F134?sharingId=109AD1BA867B7412">
     <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" alt="Azure Solutions Architect Expert" width="100">
   </a>
+  &nbsp;
   <a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/4586F9FC740509FA?sharingId=109AD1BA867B7412">
     <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Azure Administrator Associate" width="100">
   </a>
+  &nbsp;
   <a href="https://learn.microsoft.com/api/credentials/share/en-gb/danielpowley92/C97D2E529F5AB715?sharingId=109AD1BA867B7412">
     <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Azure Fundamentals" width="100">
   </a>
@@ -37,7 +39,7 @@
 
 ## 💻 Skills & Technologies
 
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
@@ -52,7 +54,7 @@
 
 ---
 
-### Learning Targets
+### Learning Targets & Objectives
 - 🚀 <a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/">Microsoft Certified: DevOps Engineer Expert (AZ-400)</a>
 - 🚀 <a href="https://developer.hashicorp.com/certifications/infrastructure-automation">Hashicorp Certified: Terraform Associate (003)</a>
 
@@ -62,7 +64,7 @@
 
 I'd love to connect and collaborate! Reach out through:
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/danielpowley92/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
