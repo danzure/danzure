@@ -4,7 +4,9 @@ A Microsoft 365 & Azure Cloud Engineer and Azure Solutions Architect building pr
 
 <p align="center">
   <a href="https://github.com/danzure"><img src="https://img.shields.io/badge/GitHub-danzure-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
+  
   <a href="https://atozazure.com/"><img src="https://img.shields.io/badge/Portfolio-atozazure.com-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="Portfolio"/></a>
+  
   <a href="https://www.linkedin.com/in/danielpowley92/"><img src="https://img.shields.io/badge/LinkedIn-danielpowley92-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
@@ -35,8 +37,8 @@ These projects are built to help other cloud professionals learn, automate, and 
 
 ### Current certifications
 
-- 🚀 [Azure Solutions Architect Expert (AZ-305)](https://learn.microsoft.com/en-gb/users/danielpowley92/credentials/certification/azure-solutions-architect)
-- 🚀 [Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/en-gb/users/danielpowley92/credentials/certification/azure-administrator)
+- [Azure Solutions Architect Expert (AZ-305)](https://learn.microsoft.com/en-gb/users/danielpowley92/credentials/certification/azure-solutions-architect)
+- [Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/en-gb/users/danielpowley92/credentials/certification/azure-administrator)
 - [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-gb/users/danielpowley92/credentials/certification/azure-fundamentals)
 - [Microsoft 365 Fundamentals (MS-900)](https://learn.microsoft.com/en-gb/users/danielpowley92/credentials/certification/microsoft-365-fundamentals)
 - [Security, Compliance, and Identity Fundamentals (SC-900)](https://learn.microsoft.com/en-gb/users/danielpowley92/credentials/certification/security-compliance-and-identity-fundamentals)
@@ -45,8 +47,8 @@ These projects are built to help other cloud professionals learn, automate, and 
 
 ### Upcoming certification goals
 - [Microsoft Certified: Microsoft Azure AI Fundamentals (AI-901)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
-- 🚀 [Microsoft Certified: DevOps Engineer Expert (AZ-400)](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/)
-- 🚀 [Hashicorp Certified: Terraform Associate (003)](https://developer.hashicorp.com/certifications/infrastructure-automation)
+- [Microsoft Certified: DevOps Engineer Expert (AZ-400)](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/)
+- [Hashicorp Certified: Terraform Associate (003)](https://developer.hashicorp.com/certifications/infrastructure-automation)
 
 ---
 
