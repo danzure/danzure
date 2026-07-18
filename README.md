@@ -1,16 +1,5 @@
 <!-- Header Section -->
-<p align="left">
-  <strong>Azure Cloud Engineer | Microsoft Azure Solutions Architect</strong><br>
-  I've worked in the IT industry for the last decade, with a focus on the Microsoft Azure Cloud platform. Here you'll find repos for my personal projects and learning material for my own personal development within my career.
-</p>
-
-# Daniel Powley
-
-### Cloud Engineer & Azure Solutions Architect
-
-Welcome to my GitHub profile. I’m Daniel, an Azure and Microsoft 365 engineer sharing practical insights, open-source projects, and hands-on guidance for the Microsoft Cloud. Over the last decade, I’ve worked my way from the helpdesk trenches through to cloud engineering, with a focus on Azure architecture, governance, automation, and modern workplace solutions.
-
-> I build, document, and share solutions that are practical, reusable, and grounded in real-world delivery.
+Welcome to my GitHub profile. I’m Daniel, an Microsoft 365/ Azure Cloud Engineer & Azure Solutions Architect sharing practical insights, open-source projects, and hands-on guidance for the Microsoft Cloud. Over the last decade, I’ve worked my way from the helpdesk trenches through to cloud engineering, with a focus on Azure architecture, governance, automation, and modern workplace solutions.
 
 ---
 
