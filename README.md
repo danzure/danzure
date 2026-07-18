@@ -4,9 +4,7 @@ A Microsoft 365 & Azure Cloud Engineer and Azure Solutions Architect building pr
 
 <p align="center">
   <a href="https://github.com/danzure"><img src="https://img.shields.io/badge/GitHub-danzure-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
-  
   <a href="https://atozazure.com/"><img src="https://img.shields.io/badge/Portfolio-atozazure.com-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="Portfolio"/></a>
-  
   <a href="https://www.linkedin.com/in/danielpowley92/"><img src="https://img.shields.io/badge/LinkedIn-danielpowley92-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
