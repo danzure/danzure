@@ -44,11 +44,11 @@ These projects are built to help other cloud professionals learn, automate, and 
 - [Copilot and Agent Administration Fundamentals (AB-900)](https://learn.microsoft.com/en-gb/users/danielpowley92/credentials/certification/copilot-and-agent-administration-fundamentals)
 
 ### Planned certification goals
-- [Microsoft Certified: Microsoft Azure AI Fundamentals (AI-901)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
+- [Hashicorp Certified: Terraform Associate (003)](https://developer.hashicorp.com/certifications/infrastructure-automation)
 - [Microsoft 365 Certified: Microsoft 365 and AI Services Administrator Associate (AB-650)](https://learn.microsoft.com/en-us/credentials/certifications/ai-services-administrator-associate/)
 - [Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/?practice-assessment-type=certification)
+- [Microsoft Certified: Microsoft Azure AI Fundamentals (AI-901)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
 - [Microsoft Certified: Multi-Agent AI Solutions Expert (AI-500)](https://learn.microsoft.com/en-us/credentials/certifications/multi-agent-ai-solutions-expert/)
-- [Hashicorp Certified: Terraform Associate (003)](https://developer.hashicorp.com/certifications/infrastructure-automation)
 
 ---
 
