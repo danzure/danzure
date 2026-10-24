@@ -1,6 +1,6 @@
 # Hi, I’m Daniel 👋
 
-A Microsoft 365 & Azure Cloud Engineer and Azure Solutions Architect building practical cloud solutions, governance patterns, and automation for modern enterprises.
+An Azure & Microsoft 365 Cloud Engineer and Azure Solutions Architect building practical cloud solutions, governance patterns, and automation for modern enterprises.
 
 <p align="center">
   <a href="https://github.com/danzure"><img src="https://img.shields.io/badge/GitHub-danzure-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
